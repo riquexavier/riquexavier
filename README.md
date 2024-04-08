@@ -7,6 +7,6 @@
 
 ## Formação acadêmica 📚
 
-ETEC - Ensino Médio com Técnico em Administração 6/6
+ETEC - Ensino Médio com Técnico em Administração 5/6
 
 ETEC - Técnico em Informática 1/3
