@@ -13,5 +13,6 @@ ETEC - Técnico em Informática 1/3
 ## Experiência profissional 💼
 
 2024: Regulação de Vagas - Diretoria Municipal de Saúde
+
 Organização de recursos; Uso pacote office; Gestão de vagas; Relacionamento com público.
 
