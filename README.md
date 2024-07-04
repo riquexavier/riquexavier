@@ -9,7 +9,7 @@
 
 ETEC - Ensino Médio com Técnico em Administração 3/3
 
-ETEC - Técnico em Informática 1/3
+ETEC - Técnico em Informática 2/3
 
 ## Experiência profissional 💼
 
