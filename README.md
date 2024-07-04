@@ -7,9 +7,9 @@
 
 ## Formação acadêmica 📚
 
-ETEC - Ensino Médio com Técnico em Administração 3/3
+2022: ETEC - Ensino Médio com Técnico em Administração 3/3
 
-ETEC - Técnico em Informática 2/3
+2024: ETEC - Técnico em Informática 2/3
 
 ## Experiência profissional 💼
 
