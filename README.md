@@ -6,11 +6,11 @@
 
 ## Formação acadêmica 📚
 
-2022: ETEC - Ensino Médio com Técnico em Administração
+2025: UNISANTOS - Sistemas de Informação 1/8
 
 2024: ETEC - Técnico em Informática 2/3
 
-2025: UNISANTOS - Sistemas de Informação 1/8
+2022: ETEC - Ensino Médio com Técnico em Administração
 
 ## Experiência profissional 💼
 
