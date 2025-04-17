@@ -9,10 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/riquexavier/riquexavier/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Formação acadêmica 📚</h2>
 
 ###
