@@ -1,6 +1,5 @@
 ### O user já diz meu nome. 😴
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riquexavier&hide&theme=chartreuse-dark)
 
 ## Formação acadêmica 📚
 
