@@ -13,7 +13,7 @@
 
 ###
 
-<h5 align="left">2025: UNISANTOS - Sistemas de Informação 1/8<br><br>2024: ETEC - Técnico em Informática 2/3<br><br>2022: ETEC - Ensino Médio com Técnico em Administração</h5>
+<h5 align="left">2025: UNISANTOS - Sistemas de Informação 2/8<br><br>2024: ETEC - Técnico em Informática 2/3<br><br>2022: ETEC - Ensino Médio com Técnico em Administração</h5>
 
 ###
 
